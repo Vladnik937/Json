@@ -10,3 +10,13 @@
   }
 }
 ```
+## preferences.json
+```json
+{
+	"Favorite_Movie": "The lord of the rings",
+	"Favorite_Serial": "Arcane",
+	"Favorite_Food": "Shawarma",
+	"Season of the year": "Summer",
+	"Favorite_Country": "Norway"
+}
+```
