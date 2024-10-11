@@ -5,7 +5,7 @@
   "Info": {
     "Name": "Vlad",
     "Age": 28,
-    "Pets": 4,
+    "Pets": 3,
     "Salary": "500-700$"
   }
 }
