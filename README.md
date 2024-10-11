@@ -42,4 +42,25 @@
     }
 }
 ```
-## skills.json - link
+## skills.json
+```json
+{
+	"Skills": {
+		"1": "Testing theory",
+		"2": "Terminal linux",
+		"3": "Git",
+		"4": "Client-Server",
+		"5": "DevTools",
+		"6": "Json, xml",
+		"7": "Bug localization",
+		"8": "SQL",
+		"9": "Postman",
+		"10_mobile_testing": {
+			"10.1": "ADB",
+			"10.2": "Charles",
+			"10.3": "Fiddler",
+			"10.4": "Android studio"
+		}
+	}
+}
+```
