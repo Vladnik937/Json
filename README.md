@@ -20,3 +20,26 @@
 	"Favorite_Country": "Norway"
 }
 ```
+## Bug_report.json
+```json
+{
+    "Bug_report": {
+        "ID": "1",
+        "Severity": "number",
+        "Priority": "Trivial, minor, major, critical, blocker",
+        "Environment": "OS, Browser",
+        "Title": "Text",
+        "Steps": {
+            "1": "1 step",
+            "2": "2 step",
+            "3": "3 step"
+        },
+        "Expected result": "ER",
+        "Actual result": "AR",
+        "Attachment": "link",
+        "Author": "nickname",
+        "Comment": "Text"
+    }
+}
+```
+## skills.json - link
